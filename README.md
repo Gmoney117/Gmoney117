@@ -9,7 +9,7 @@
 
 - [Google Cybersecurity Professional Certificate](https://imgur.com/a/31y8pP5)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Youtube Videos</h2>
 
 - [Tutorial for Active Directory](https://www.youtube.com/watch?v=a83ASGn_V_s)
 

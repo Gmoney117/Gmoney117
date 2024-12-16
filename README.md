@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice] (https://github.com/Gmoney117/ActiveDirectoryLab)
+  - [Active Directory Home Lab] (https://github.com/Gmoney117/ActiveDirectoryLab)
 
 
 <h2>Certifications</h2>

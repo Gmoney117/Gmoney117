@@ -18,7 +18,7 @@
 
 [<img align="left" alt="GarrettStanford | LinkedIn" width="22px" src="https://www.linkedin.com/in/garrett-stanford-333488307/" />][linkedin]
 
-
+[linkdin](https://www.linkedin.com/in/garrett-stanford-333488307/)
 
 
 <!--

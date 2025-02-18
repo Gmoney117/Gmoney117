@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/Gmoney117/ActiveDirectoryLab)
 
-
+  - [Basic LAN Setup Home-Lab](https://github.com/Gmoney117/Basic-LAN-Setup-with-DHCP-Packet-Tracer-Homelab-)
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://imgur.com/a/31y8pP5)
